@@ -1,2 +1,2 @@
 # Badge-Bot-discord-
-Bot discord permettant d'obtenir le badge "développeur actif"
+A discord Bot what do nothing special, but what permit to obtain the developer badge on your discord profile.
